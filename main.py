@@ -8,7 +8,7 @@ import smtplib
 import requests
 
 def talkToMe(audio):
-    "speaks audio passed as argument"
+    # speaks audio passed as argument
 
     print(audio)
     for line in audio.splitlines():
@@ -21,7 +21,7 @@ def talkToMe(audio):
 
 
 def myCommand():
-    "listens for commands"
+    # listens for commands
 
     r = sr.Recognizer()
 
