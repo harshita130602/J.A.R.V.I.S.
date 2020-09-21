@@ -32,7 +32,7 @@ Once, the JARVIS start saying 'I am ready for your command', give the command yo
 Please fill your information in the email section of the code in order to send the email to the person you want to get your message. Every information that is required to fill in the code, is well-commented in order to minimise the work to find it. Right now, sample data has been filled at those places.
 * **Tell a joke OR another joke** : Says a random dad joke xD
 
-**Note** - This repository is licensed under MIT License 2020. In order to view the license, click [here](https://github.com/harshita130602/J.A.R.V.I.S./blob/master/LICENSE). You can report any issue regarding this repository [here](https://github.com/harshita130602/J.A.R.V.I.S./issues). If you have more amazing ideas in order to make this desktop assistant better, feel free to make pull requests. **Pull requests are welcome :)**
+**Note** - This repository is licensed under MIT License 2020. In order to view the license, click [here](https://github.com/harshita130602/J.A.R.V.I.S./blob/master/LICENSE). You can report any issues regarding this repository [here](https://github.com/harshita130602/J.A.R.V.I.S./issues). If you have more amazing ideas in order to make this desktop assistant better, feel free to make pull requests. **Pull requests are welcome :)**
 
                     
                     
