@@ -23,10 +23,12 @@ Once, the JARVIS start saying 'I am ready for your command', give the command yo
 * **Hey Jarvis**
 * **How are you**
 * **Open reddit 'subreddit name'** : Opens the subreddit in default browser.
+    
     Example - Open reddit python.
     
     It will open https://www.reddit.com/r/Python/
-* **Open website 'website name'** : Opens the requires website in default browser
+* **Open website 'website name'** : Opens the requires website in default browser.
+    
     Example - Open website Facebook.
     
     It will open https://www.facebook.com
