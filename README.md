@@ -27,14 +27,14 @@ Once, the JARVIS start saying 'I am ready for your command', give the command yo
     Example - Open reddit python.
     
     It will open https://www.reddit.com/r/Python/
-* **Open website 'website name'** : Opens the requires website in default browser.
+* **Open website 'website name'** : Opens the required website in default browser.
     
     Example - Open website Facebook.
     
     It will open https://www.facebook.com
 * **Send email OR email** : Sends the mail. Follow up questions such as recipient name, content will be asked in order.
 Please fill your information in the email section of the code in order to send the email to the person you want to get your message. Every information that is required to fill in the code, is well-commented in order to minimise the work to find it. Right now, sample data has been filled at those places.
-* **Tell a joke OR another joke** : Says a random dad joke xD
+* **Tell a joke OR another joke** : Says a random dad joke xD.
 
 **Note** - This repository is licensed under MIT License 2020. In order to view the license, click [here](https://github.com/harshita130602/J.A.R.V.I.S./blob/master/LICENSE). You can report any issues regarding this repository [here](https://github.com/harshita130602/J.A.R.V.I.S./issues). If you have more amazing ideas in order to make this desktop assistant better, feel free to make pull requests. **Pull requests are welcome :)**
 
