@@ -22,6 +22,7 @@ Once, the JARVIS start saying 'I am ready for your command', give the command yo
 * **What's up**
 * **Hey Jarvis**
 * **How are you**
+* **Shut Down**
 * **Open reddit 'subreddit name'** : Opens the subreddit in default browser.
     
     Example - Open reddit python.
